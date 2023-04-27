@@ -1,0 +1,22 @@
+{
+    "customer1": {
+        "name": "XYZ",
+        "profession": "teacher",
+        "id": 1
+    },
+    "customer2": {
+        "name": "XYZ",
+        "profession": "teacher",
+        "id": 1
+    },
+    "customer3": {
+        "name": "XYZ",
+        "profession": "teacher",
+        "id": 1
+    },
+    "customer4": {
+        "name": "XYZ",
+        "profession": "teacher",
+        "id": 1
+    }
+}

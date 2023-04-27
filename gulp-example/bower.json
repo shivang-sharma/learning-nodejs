@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "description": "-----",
+  "main": "index.js",
+  "license": "ISC",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "homepage": "http://localhost:3000/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.1"
+  },
+  "authors": [
+    "shivang-sharma <sharmashivang071@gmail.com>"
+  ]
+}
